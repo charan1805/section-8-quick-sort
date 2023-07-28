@@ -1,0 +1,8 @@
+E:\my details\personal\c sharp\ asssigned projects\section 8\Quick sort\bin\Debug\Quick sort.exe.config
+E:\my details\personal\c sharp\ asssigned projects\section 8\Quick sort\bin\Debug\Quick sort.exe
+E:\my details\personal\c sharp\ asssigned projects\section 8\Quick sort\bin\Debug\Quick sort.pdb
+E:\my details\personal\c sharp\ asssigned projects\section 8\Quick sort\obj\Debug\Quick sort.csproj.AssemblyReference.cache
+E:\my details\personal\c sharp\ asssigned projects\section 8\Quick sort\obj\Debug\Quick sort.csproj.SuggestedBindingRedirects.cache
+E:\my details\personal\c sharp\ asssigned projects\section 8\Quick sort\obj\Debug\Quick sort.csproj.CoreCompileInputs.cache
+E:\my details\personal\c sharp\ asssigned projects\section 8\Quick sort\obj\Debug\Quick sort.exe
+E:\my details\personal\c sharp\ asssigned projects\section 8\Quick sort\obj\Debug\Quick sort.pdb
